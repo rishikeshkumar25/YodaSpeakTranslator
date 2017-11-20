@@ -1,0 +1,17 @@
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\YodoSpeak.exe.config
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\YodoSpeak.exe
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\YodoSpeak.pdb
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.csprojResolveAssemblyReference.cache
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\MainWindow.baml
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\MainWindow.g.cs
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\App.g.cs
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak_MarkupCompile.cache
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.g.resources
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.Properties.Resources.resources
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.csproj.GenerateResource.Cache
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.exe
+F:\Applications\WPF\YodoSpeak\YodoSpeak\obj\Debug\YodoSpeak.pdb
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\Newtonsoft.Json.dll
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\System.Net.Http.Formatting.dll
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\Newtonsoft.Json.xml
+F:\Applications\WPF\YodoSpeak\YodoSpeak\bin\Debug\System.Net.Http.Formatting.xml
